@@ -4,7 +4,7 @@ Practice solutions in Python 3 for Google Code Jam 2019.
 
 # Qualification Round
 | # | Title | Solution | Time | Space | Notes |
-| --- | --- | ---| --- | --- | --- |
+| :--- | --- | ---| --- | --- | --- |
 | A | Foregone Solution | Python | O(logN) | O(1) | Math |
 | B | You Can Go Your Own Way | Python | ? | ? | ? |
 | C | Cryptopangrams | Python | ? | ? | ? |
